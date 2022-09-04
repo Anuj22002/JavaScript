@@ -1,0 +1,565 @@
+{
+    "data": [
+       
+        {
+            "totalc": 2000,
+            "robbery": 0,
+            "latitude": 20.9517,
+            "pop": 45990000,
+            "longitude": 85.0985,
+            "name": "Odisha",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.125Z",
+            "suicide": 0, 
+            "id": "0VG7S6aaK4eSo59fL9JO",
+            "kidnapping": 2
+            
+        },
+        {
+            "latitude": 11.7401,
+            "pop": 427246,
+            "longitude": 92.6586,
+            "name": "Andaman and Nicobar Islands",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.168Z",
+            "suicide": 0,
+            "id": "0jStOpTUNRaQYJqgmRoK",
+            "totalc": 11000,
+            "robbery": 0,
+            "kidnapping": 1
+        },
+       
+        {
+            "totalc": 10000,
+            "robbery": 0,
+            "latitude": 22.9868,
+            "pop": 90320000,
+            "longitude": 87.855,
+            "name": "West Bengal",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.120Z",
+            "suicide": 1,
+            "id": "0n54EMSDJcRoT1QEvw80",
+            "kidnapping": 9
+        },
+        {
+            "totalc": 7000,
+            "robbery": 0,
+            "latitude": 22.9734,
+            "pop": 73340000,
+            "longitude": 78.6569,
+            "name": "Madhya Pradesh",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.114Z",
+            "suicide": 1,
+            "id": "0s18o5DrDAHjbu5MFcrj",
+            "kidnapping": 19
+        },
+       
+        {
+            "totalc": 1,
+            "robbery": 1,
+            "latitude": 30.15336,
+            "pop": 3180000,
+            "longitude": 88.787865,
+            "name": "Tibet",
+            "country": "CN",
+            "lastUpdated": "2020-03-27T00:44:43.086Z",
+            "suicide": 0,
+            "id": "25qIBtsW2nfQj3pwBKg9",
+            "kidnapping": 0
+        },
+        
+       
+        {
+            "id": "5gXZIjRgAvd6xWN1LOv8",
+            "totalc": 3,
+            "robbery": 1,
+            "latitude": 28.394857,
+            "pop": 29300000,
+            "longitude": 84.124008,
+            "name": "Nepal",
+            "country": "NP",
+            "lastUpdated": "2020-03-27T08:13:11.995Z",
+            "suicide": 0,
+            "kidnapping": 2
+        },
+        
+        
+        {
+            "latitude": 27.0238,
+            "pop": 68890000,
+            "longitude": 74.2179,
+            "name": "Rajasthan",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.192Z",
+            "suicide": 0,
+            "id": "CKZCZTPlrcq5fbfUPA9k",
+            "totalc": 4100,
+            "robbery": 3,
+            "kidnapping": 38
+        },
+       
+        {
+            "latitude": 22.2587,
+            "pop": 62700000,
+            "longitude": 71.1924,
+            "name": "Gujarat",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.116Z",
+            "suicide": 3,
+            "id": "ERwk9R9en4m9WbdoMbIg",
+            "totalc": 1200,
+            "robbery": 0,
+            "kidnapping": 40
+        },
+        {
+            "totalc": 7700,
+            "robbery": 0,
+            "latitude": 30.7333,
+            "pop": 1055000,
+            "longitude": 76.7794,
+            "name": "Chandigarh",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.109Z",
+            "suicide": 0,
+            "id": "Esl5UlCVB9s8pmGB5Ofr",
+            "kidnapping": 7
+        },
+        
+        {
+            "lastUpdated": "2020-03-27T08:13:11.494Z",
+            "suicide": 4,
+            "id": "FCDmlmnIIswd8bQiUjfN",
+            "totalc": 940,
+            "robbery": 2,
+            "latitude": 33.93911,
+            "pop": 35530000,
+            "longitude": 67.709953,
+            "name": "Afghanistan",
+            "country": "AF",
+            "kidnapping": 88
+        },
+       
+        {
+            "totalc": 2900,
+            "robbery": 1,
+            "latitude": 11.1271,
+            "pop": 67860000,
+            "longitude": 78.6569,
+            "name": "Tamil Nadu",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.186Z",
+            "suicide": 1,
+            "id": "FeS45oMNC27pI17F0xEV",
+            "kidnapping": 27
+        },
+       
+        {
+            "lastUpdated": "2020-03-27T08:26:07.144Z",
+            "suicide": 0,
+            "id": "FyC551oNwmENxbr9Yght",
+            "totalc": 4500,
+            "robbery": 1,
+            "latitude": 18.1124,
+            "pop": 35190000,
+            "longitude": 79.0193,
+            "name": "Telengana",
+            "country": "IN",
+            "kidnapping": 44
+        },
+       
+        {
+            "totalc": 8000,
+            "robbery": 0,
+            "latitude": 31.1471,
+            "pop": 27980000,
+            "longitude": 75.3412,
+            "name": "Punjab",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.182Z",
+            "suicide": 1,
+            "id": "GGru8cG08mANO8XDDUtZ",
+            "kidnapping": 32
+        },
+        
+        {
+            "totalc": 5005,
+            "robbery": 3,
+            "latitude": 15.3173,
+            "pop": 64060000,
+            "longitude": 75.7139,
+            "name": "Karnataka",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.190Z",
+            "suicide": 2,
+            "id": "HN5mGmxlqlSeFSNeu1K5",
+            "kidnapping": 50
+        },
+        {
+            "robbery": 0,
+            "latitude": 27.5142,
+            "pop": 807610,
+            "longitude": 90.4336,
+            "name": "Bhutan",
+            "country": "BT",
+            "lastUpdated": "2020-03-27T08:13:11.910Z",
+            "suicide": 0,
+            "id": "HRDpwyxpqW9RN0xLFyNu",
+            "totalc": 3,
+            "kidnapping": 3
+        },
+        
+        {
+            "lastUpdated": "2020-03-27T08:26:07.140Z",
+            "suicide": 1,
+            "id": "JR7hOGked7CZtIs2nCV5",
+            "totalc": 9999,
+            "robbery": 0,
+            "latitude": 25.0961,
+            "pop": 99020000,
+            "longitude": 85.3131,
+            "name": "Bihar",
+            "country": "IN",
+            "kidnapping": 5
+        },
+        
+        {
+            "latitude": 7.873054,
+            "pop": 21440000,
+            "longitude": 80.771797,
+            "name": "Sri Lanka",
+            "country": "LK",
+            "lastUpdated": "2020-03-27T08:13:11.421Z",
+            "suicide": 0,
+            "id": "KsWzJO06cf0d6LJ4ZNh9",
+            "totalc": 106,
+            "robbery": 7,
+            "kidnapping": 99
+        },
+        {
+            "totalc": 3211,
+            "robbery": 1,
+            "latitude": 15.9129,
+            "pop": 49670000,
+            "longitude": 79.74,
+            "name": "Andhra Pradesh",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.173Z",
+            "suicide": 0,
+            "id": "KtQIo2DoqjELtPAlyDVO",
+            "kidnapping": 11
+        },
+       
+        {
+            "id": "NMeZEcGToxXfpi16PfFV",
+            "totalc": 500,
+            "robbery": 0,
+            "latitude": 30.0668,
+            "pop": 10080000,
+            "longitude": 79.0193,
+            "name": "Uttarakhand",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.129Z",
+            "suicide": 0,
+            "kidnapping": 5
+        },
+        
+        {
+            "longitude": 74.124,
+            "name": "Goa",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.094Z",
+            "suicide": 0,
+            "id": "SPcujsH2YlUaoAr8AiWF",
+            "totalc": 998,
+            "robbery": 0,
+            "latitude": 15.2993,
+            "pop": 1817000,
+            "kidnapping": 3
+        },
+        
+        {
+            "robbery": 0,
+            "latitude": 11.943179,
+            "pop": 241773,
+            "longitude": 79.808206,
+            "name": "Puducherry",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.136Z",
+            "suicide": 0,
+            "id": "V1qE740s3EUGyKGr6SVv",
+            "totalc": 100,
+            "kidnapping": 1
+        },
+       
+        {
+            "totalc": 111,
+            "robbery": 0,
+            "latitude": 24.6637,
+            "pop": 2722000,
+            "longitude": 93.9063,
+            "name": "Manipur",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.142Z",
+            "suicide": 0,
+            "id": "WKsJQmcpWKxnp0nCwN77",
+            "kidnapping": 1
+        },
+        
+        {
+            "robbery": 11,
+            "latitude": 23.685,
+            "pop": 164700000,
+            "longitude": 90.3563,
+            "name": "Bangladesh",
+            "country": "BD",
+            "lastUpdated": "2020-03-27T08:13:11.510Z",
+            "suicide": 5,
+            "id": "WpLayPPLIJ7VcHZdQaoM",
+            "totalc": 48,
+            "kidnapping": 32
+        },
+        
+        {
+            "robbery": 30,
+            "latitude": 34.152588,
+            "pop": 274289,
+            "longitude": 77.577049,
+            "name": "Ladakh",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.158Z",
+            "suicide": 0,
+            "id": "X3PZqaJxtnlxcgP4tzya",
+            "totalc": 13,
+            "kidnapping": 10
+        },
+        
+        
+        {
+            "id": "hqwsh1rmvkWI3LFUVuMk",
+            "totalc": 3600,
+            "robbery": 6,
+            "latitude": 28.7041,
+            "pop": 18980000,
+            "longitude": 77.1025,
+            "name": "Delhi",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.197Z",
+            "suicide": 1,
+            "kidnapping": 29
+        },
+        
+        {
+            "robbery": 4896,
+            "latitude": 10.8505,
+            "pop": 34800000,
+            "longitude": 76.2711,
+            "name": "Kerala",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.123Z",
+            "suicide": 0,
+            "id": "idymmgoqLHImnBdyC7r7",
+            "totalc": 137,
+            "kidnapping": 126
+        },
+        
+       
+        {
+            "latitude": 3.2028,
+            "pop": 436330,
+            "longitude": 73.2207,
+            "name": "Maldives",
+            "country": "MV",
+            "lastUpdated": "2020-03-27T08:13:11.881Z",
+            "suicide": 0,
+            "id": "m45gI2UbWMuTrOnTtp9k",
+            "totalc": 13,
+            "robbery": 9,
+            "kidnapping": 4
+        },
+        
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 6300,
+            "robbery": 15,
+            "latitude": 19.7515,
+            "pop": 114200000,
+            "longitude": 75.7139,
+            "name": "Maharashtra",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 1281
+        },
+
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 800,
+            "robbery": 15,
+            "latitude": 21.145800,
+            "pop": 114200000,
+            "longitude": 79.088155,
+            "name": "Nagpur",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 581
+        },
+
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 40,
+            "robbery": 15,
+            "latitude": 21.1432,
+            "pop": 114200000,
+            "longitude": 79.1121,
+            "name": "Mahal",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 581
+        },
+
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 9,
+            "robbery": 15,
+            "latitude": 21.1630,
+            "pop": 114200000,
+            "longitude": 79.0735,
+            "name": "Sadar",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 581
+        },
+
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 87,
+            "robbery": 15,
+            "latitude": 21.1557,
+            "pop": 114200000,
+            "longitude": 79.0942,
+            "name": "Mominpura",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 581
+        },
+
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 39,
+            "robbery": 15,
+            "latitude": 21.1660,
+            "pop": 114200000,
+            "longitude": 79.0550,
+            "name": "Seminary Hills",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 9
+        },
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 23,
+            "robbery": 15,
+            "latitude": 21.0955,
+            "pop": 114200000,
+            "longitude": 79.1083,
+            "name": "Manewada",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 12
+        },
+        
+        {
+            "id": "mJtdLs4ub6CkcAOeMWUm",
+            "totalc": 99,
+            "robbery": 15,
+            "latitude": 21.1660,
+            "pop": 114200000,
+            "longitude": 79.0550,
+            "name": "Gittikhadan",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.164Z",
+            "suicide": 4,
+            "kidnapping": 12
+        },
+        
+        
+        {
+            "longitude": 77.1734,
+            "name": "Himachal Pradesh",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.161Z",
+            "suicide": 1,
+            "id": "oqLEd2Z9P3FJeQsfIk8e",
+            "totalc": 3,
+            "robbery": 0,
+            "latitude": 31.1048,
+            "pop": 6856000,
+            "kidnapping": 2
+        },
+        
+        {
+            "robbery": 0,
+            "latitude": 21.2787,
+            "pop": 25550000,
+            "longitude": 81.8661,
+            "name": "Chhattisgarh",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.199Z",
+            "suicide": 0,
+            "id": "pu6AXEsDnpmmqnhajobN",
+            "totalc": 6,
+            "kidnapping": 6
+        },
+        
+        {
+            "longitude": 92.9376,
+            "name": "Mizoram",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.195Z",
+            "suicide": 0,
+            "id": "r54PtV0VHsIOc0YPTyhd",
+            "totalc": 1,
+            "robbery": 0,
+            "latitude": 23.1645,
+            "pop": 1116000,
+            "kidnapping": 1
+        },
+        
+        {
+            "longitude": 76.0856,
+            "name": "Haryana",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.202Z",
+            "suicide": 0,
+            "id": "ubUuY89n0cXVgahI4Ytp",
+            "totalc": 30,
+            "robbery": 11,
+            "latitude": 29.0588,
+            "pop": 25350000,
+            "kidnapping": 19
+        },
+        
+        {
+            "longitude": 76.5762,
+            "name": "Jammu and Kashmir",
+            "country": "IN",
+            "lastUpdated": "2020-03-27T08:26:07.138Z",
+            "suicide": 1,
+            "id": "v5wfBhxjYTpTMaKko6AW",
+            "totalc": 13,
+            "robbery": 1,
+            "latitude": 33.7782,
+            "pop": 12550000,
+            "kidnapping": 11
+        }
+       
+    ]
+}
